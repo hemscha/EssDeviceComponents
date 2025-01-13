@@ -1,5 +1,5 @@
-﻿using EssAppComponents.Common.Classes;
-using EssAppComponents.Logging.Interfaces;
+﻿using EssAppComponentsCommon.Common.Classes;
+using EssAppComponentsCommon.Logging.Interfaces;
 using EssDeviceComponents.Classes;
 using EssDeviceComponents.Interfaces;
 using System.IO.Ports;

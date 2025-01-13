@@ -13,4 +13,8 @@
 		<PackageReference Include="System.IO.Ports" Version="8.0.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\EssAppComponents\EssAppComponentsCommon\EssAppComponentsCommon.csproj" />
+	</ItemGroup>
+
 </Project>

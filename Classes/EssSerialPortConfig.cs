@@ -1,4 +1,4 @@
-﻿using EssAppComponents.Common.Interfaces;
+﻿using EssAppComponentsCommon.Common.Interfaces;
 using Newtonsoft.Json;
 using System.IO.Ports;
 
